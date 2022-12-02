@@ -1,6 +1,7 @@
 package arrayproblems;
 
 public class AccesendingOrder {
+    
     public static void main(String[] args) {
         int[] arr = {5, 4, 6, 3, 2, 1,7};
         int num = 0;
