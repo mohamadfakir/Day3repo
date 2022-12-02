@@ -3,10 +3,11 @@ package arrayproblems;
 import java.util.Scanner;
 
 public class OddPosition {
+    
     public static void main(String[] args) {
         System.out.println("enter the number of elements you want to enter\n");
         Scanner n = new Scanner(System.in);
-        int ar = n.nextInt();
+        int arr = n.nextInt();
         int arr[] = new int[ar];
 
         for (int i = 0; i < arr.length; i++) {
