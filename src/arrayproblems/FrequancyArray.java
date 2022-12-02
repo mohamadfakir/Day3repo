@@ -1,6 +1,7 @@
 package arrayproblems;
 
 public class FrequancyArray {
+    
     public static void main(String[] args) {
 
         int arr[] = {20, 10, 25, 20, 30, 20, 10, 15};
