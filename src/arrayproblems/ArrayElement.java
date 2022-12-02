@@ -1,4 +1,4 @@
-package arrayproblems;
+package com.arrayproblems;
 
 public class ArrayElement {
     public static void main(String args[]){
