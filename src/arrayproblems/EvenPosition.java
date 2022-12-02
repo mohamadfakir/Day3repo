@@ -1,6 +1,7 @@
 package arrayproblems;
 
 public class EvenPosition {
+    
     public static void main(String[] args) {
         //initilizing an array
         int[] arrary = {2, 5, 6, 8, 4, 2, 3, 1, 5, 9, 3, 4};
