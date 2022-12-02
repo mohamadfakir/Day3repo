@@ -3,6 +3,7 @@ package arrayproblems;
 import java.util.Scanner;
 
 public class Secondlargest {
+    
     public static void main(String[] args) {
         System.out.println("enter the number of elements you want to enter\n");
         Scanner n = new Scanner(System.in);
